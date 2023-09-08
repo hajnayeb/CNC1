@@ -1,4 +1,4 @@
-# CNC1:
+# CNC machining for impeller manufacturing:
 
 I designed a pump impeller in SolidWorks, and prepared the CNC process in MasterCam 2023. 
 The process included facing, drilling, countoring and pocketing:

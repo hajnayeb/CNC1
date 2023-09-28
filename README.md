@@ -9,3 +9,6 @@
 ![image](https://github.com/hajnayeb/CNC1/assets/74108898/73978478-5f1c-44a5-8ffa-8c3ae3aed1e7)
 
 
+https://github.com/hajnayeb/CNC1/assets/74108898/f3faa13d-249d-40b8-9f41-fdfbe9c8b901
+
+
